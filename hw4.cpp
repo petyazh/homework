@@ -17,7 +17,7 @@ void readMatrix(int n)
 		for(int j = 0; j < n; j++)
 		{
 			cin >> bit;
-
+			    
 			matrix[i][j] = bit;
 		}
 	}
